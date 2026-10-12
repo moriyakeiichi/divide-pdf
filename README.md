@@ -21,7 +21,7 @@ python3 -m venv .build-env
 .build-env/bin/python build_apps.py
 ```
 
-`dividepdf5.py` は、同じ分割をコマンドから行うスクリプトです。
+`divide_pdf.py` は、同じ分割をコマンドから行うスクリプトです。
 
 ## ライセンス
 

@@ -15,10 +15,10 @@ CropBox で表示範囲を左右に切る。そのため注釈の種類（Subtyp
 依存: PyMuPDF（pip install pymupdf）
 
 例:
-  python3 dividepdf5.py -i input.pdf -o out
-  python3 dividepdf5.py -i input.pdf -o out --order R
-  python3 dividepdf5.py -i ./pdfs -o out --recursive
-  python3 dividepdf5.py -i input.pdf -o out --mode flatten --dpi 200
+  python3 divide_pdf.py -i input.pdf -o out
+  python3 divide_pdf.py -i input.pdf -o out --order R
+  python3 divide_pdf.py -i ./pdfs -o out --recursive
+  python3 divide_pdf.py -i input.pdf -o out --mode flatten --dpi 200
 """
 from __future__ import annotations
 
