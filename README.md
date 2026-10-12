@@ -25,4 +25,8 @@ python3 -m venv .build-env
 
 ## ライセンス
 
-アプリは PyMuPDF（AGPL-3.0）と Python を同梱しています。ライセンス原文はアプリ内の `Contents/Resources/Licenses` にあります。このリポジトリが、配布するアプリに対応するソースです。
+このアプリは GNU Affero General Public License v3.0（AGPL-3.0）です。全文は [LICENSE](LICENSE) にあります。
+
+Copyright (C) 2026 moriyakeiichi
+
+PyMuPDF（AGPL-3.0）と Python（PSF License）を同梱しています。各ライブラリの表記はアプリ内の `Contents/Resources/Licenses` にあります。このリポジトリが、配布するアプリに対応するソースです。
